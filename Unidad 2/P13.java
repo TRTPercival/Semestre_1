@@ -29,7 +29,7 @@ public class P13 {
         
          if (prom>=70)
           System.out.println("Aprobado ");
-         if (prom<70)
+         else
           System.out.println("Reprobado ");
     }
 }
